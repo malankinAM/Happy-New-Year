@@ -11,4 +11,4 @@
 
 
 ## Click ('https://malankinam.github.io/-Funny-resume/')
- <img src="screencapture-127-0-0-1-5500-index-html-2023-12-03-08_51_31.png" title="css"  width="600" height="600"/>
+ <img src="./img/screencapture-127-0-0-1-5500-index-html-2023-12-21-07_14_23.png" title="css"  width="400" height="800"/>
